@@ -4,7 +4,7 @@
   <!-- ═══ HOME ═══ -->
   <url>
     <loc>https://softnexltd.com/</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,25 +12,25 @@
   <!-- ═══ TOP-LEVEL PAGES these are the 4 we want as Google sitelinks ═══ -->
   <url>
     <loc>https://softnexltd.com/services</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://softnexltd.com/products</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://softnexltd.com/about</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://softnexltd.com/contact</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://softnexltd.com/oracle-erp</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://softnexltd.com/support</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -82,19 +82,19 @@
   <!-- ═══ PRODUCT SUB-PAGES (children of Products) ═══ -->
   <url>
     <loc>https://softnexltd.com/hims</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://softnexltd.com/erp-mug</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://softnexltd.com/edu-soft</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
